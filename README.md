@@ -49,3 +49,7 @@ I started programming by coding Arduino while I was studying in the Electrical-E
 <p align="center">
 <a href="https://github.com/OnurBaha" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurBaha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
+<br/>
+<p align="center">
+<a href="https://github.com/OnurBaha" ><img src="![OnurBaha's Stats](https://github-readme-stats.vercel.app/api?username=OnurBaha&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="Top Languages" /></a>
+</p>
